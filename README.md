@@ -44,8 +44,8 @@ Predict outcomes and compare them to the actual values.
 ```
 /*
 Program to implement the multiple linear regression model for predicting car prices with cross-validation.
-Developed by: DAKSHA C
-RegisterNumber:  212224230048
+Developed by: Sakthivel B
+RegisterNumber:  212222040141
 */
 
 # Importing necessary libraries
